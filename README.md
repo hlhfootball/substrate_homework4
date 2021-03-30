@@ -1,4 +1,4 @@
-#practice 1
+<1.>
 enum traffic_light {
     Red,
     Green,
@@ -35,7 +35,7 @@ fn main() {
 
 }
 
-#practice 2
+<2.>
 fn main() {
     let v= vec![0,1,2,5];
 
@@ -53,7 +53,7 @@ fn sum(Vec:&[u32]) -> Option<u32>{
     sum
 } 
 
-#practice 3
+<3.>
 fn main() {
     let square = Shape::Square(5_u32);
     let circle = Shape::Circle(6_f64,3.1415926_f64);
